@@ -1,0 +1,15 @@
+mercado/
+│
+├── css/
+│   └── style.css
+├── includes/
+│   └── db.php
+├── index.php (login)
+├── register.php
+├── dashboard.php
+├── add_mercadoria.php
+├── add_categoria.php
+├── view_logs.php
+├── edit_mercadoria.php
+├── delete_mercadoria.php
+└── logout.php
